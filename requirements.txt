@@ -1,16 +1,19 @@
 python-dotenv
 pandas
 numpy
-pymongo
 certifi
+
+# MongoDB (SRV DNS support)
 pymongo[srv]
+dnspython
+
 scikit-learn
 mlflow
-pyaml
+pyyaml
 dagshub
+
 fastapi
 uvicorn
 python-multipart
-
 
 ##-e .

@@ -1,0 +1,9 @@
+.conda
+.venv
+__pycache__
+.git
+.gitignore
+*.db
+*.log
+artifacts
+mlruns
